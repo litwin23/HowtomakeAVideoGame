@@ -6,6 +6,7 @@ TagManager:
   tags:
   - "\u043F\u0440\u0438\u043F\u044F\u0441\u0442\u0432\u0438\u0435"
   - "\u041F\u0440\u0438\u043F\u044F\u0442\u0441\u0442\u0432\u0438\u0435"
+  - ' Enemy'
   layers:
   - Default
   - TransparentFX
