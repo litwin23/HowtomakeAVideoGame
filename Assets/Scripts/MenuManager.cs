@@ -6,8 +6,8 @@ public class MenuManager : MonoBehaviour
 
 public int menuScene;
 public int InfiniteLevel;
-public int looseScene;
-public int getcheat;
+public int DefeatScene;
+
 
     public void ToMenu()
     {
@@ -22,6 +22,7 @@ public int getcheat;
     public void ExitGame()
     {
     Application.Quit();
+    Debug.LogError("Вы покинули игру");
     }
 
 }

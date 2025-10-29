@@ -1,16 +1,16 @@
 using UnityEngine;
 public class PlayerCollision : MonoBehaviour 
 { 
- public PlayerMovement movement;
+
+public PlayerMovement movement;
+
 void OnCollisionEnter(Collision collisionInfo) 
  { 
-    if (collisionInfo.collider.tag == "Enemy") 
 
+   if (collisionInfo.collider.tag == "Obstade") 
     { 
-            movement.enabled = false; 
-
-            Debug.LogError("вы проиграли");
-
+      movement.enabled = false; 
+      Debug.LogError("вы проиграли");
     } 
-  } 
- }
+ } 
+}
