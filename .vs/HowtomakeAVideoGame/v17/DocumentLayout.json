@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047F05A3-FA62-0B4C-4DDC-A6BEC98E6250}|Assembly-CSharp.csproj|c:\\users\\deinsluck\\howtomakeavideogame\\assets\\scenes\\randomspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F05A3-FA62-0B4C-4DDC-A6BEC98E6250}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\randomspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F05A3-FA62-0B4C-4DDC-A6BEC98E6250}|Assembly-CSharp.csproj|C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\assets\\scenes\\playercollsion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F05A3-FA62-0B4C-4DDC-A6BEC98E6250}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\playercollsion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F05A3-FA62-0B4C-4DDC-A6BEC98E6250}|Assembly-CSharp.csproj|C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\assets\\scenes\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F05A3-FA62-0B4C-4DDC-A6BEC98E6250}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\Assets\\Scenes\\RandomSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\RandomSpawn.cs",
+              "ToolTip": "C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\Assets\\Scenes\\RandomSpawn.cs",
+              "RelativeToolTip": "Assets\\Scenes\\RandomSpawn.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:58:24.412Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCollsion.cs",
+              "DocumentMoniker": "C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\Assets\\Scenes\\PlayerCollsion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\PlayerCollsion.cs",
+              "ToolTip": "C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\Assets\\Scenes\\PlayerCollsion.cs",
+              "RelativeToolTip": "Assets\\Scenes\\PlayerCollsion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:35:50.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\Assets\\Scenes\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Deinsluck\\HowtomakeAVideoGame\\Assets\\Scenes\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scenes\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:28:28.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
